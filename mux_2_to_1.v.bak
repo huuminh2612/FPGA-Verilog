@@ -1,0 +1,22 @@
+//code 
+module mux_2_to_1(
+   input wire a,b,s,
+   output reg y
+);
+  always@(a or b)
+     if (s)
+        y = a;
+     else 
+        y = b;
+endmodule
+module mux_4_2_to_1(
+    input wire s,a,b,c,d,
+    output reg y
+);
+     reg e1,e2;
+mux_2_to_1 uut1(.a(a),.b(b),.s(s),.y(e1));
+mux_2_to_1 uut2(.c(a),.d(b),.s(s),.y(e2));
+mux_2_to_1 uut3(.e1(a),.e2(b),.s(s),.y(y));
+
+endmodule
+

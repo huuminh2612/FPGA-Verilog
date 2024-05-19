@@ -1,0 +1,91 @@
+E:/BT/Counter_to_100.v {1 {vlog -work work -stats=none E:/BT/counter_to_100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_to_100
+
+Top level modules:
+	counter_to_100
+
+} {} {}} E:/BT/Sequence_detector_1.v {1 {vlog -work work -stats=none E:/BT/Sequence_detector_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequence_detector_1
+-- Compiling module sequence_detector_1_tb
+
+Top level modules:
+	sequence_detector_1_tb
+
+} {} {}} E:/BT/sequence_detector_2.v {1 {vlog -work work -stats=none E:/BT/Sequence_Detector_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequence_detector_2
+
+Top level modules:
+	sequence_detector_2
+
+} {} {}} E:/BT/machdieukhienxeoto_tb.v {1 {vlog -work work -stats=none E:/BT/machdieukhienxeoto_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module machdieukhienxeoto
+-- Compiling module machdieukhienxeoto_tb
+
+Top level modules:
+	machdieukhienxeoto_tb
+
+} {} {}} E:/BT/mux_4_2_to_1_tb.v {1 {vlog -work work -stats=none E:/BT/mux_4_2_to_1_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4_2_to_1
+-- Compiling module mux_4_2_to_1_tb
+
+Top level modules:
+	mux_4_2_to_1_tb
+
+} {} {}} E:/BT/mux_2_to_1.v {1 {vlog -work work -stats=none E:/BT/mux_2_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2_to_1
+
+Top level modules:
+	mux_2_to_1
+
+} {} {}} E:/BT/machdieukhienxeoto.v {1 {vlog -work work -stats=none E:/BT/machdieukhienxeoto.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module machdieukhienxeoto
+
+Top level modules:
+	machdieukhienxeoto
+
+} {} {}} E:/BT/counter_to_10_tb.v {1 {vlog -work work -stats=none E:/BT/counter_to_10_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_to_10
+-- Compiling module counter_to_10_tb
+
+Top level modules:
+	counter_to_10_tb
+
+} {} {}} E:/BT/mux_4_2_to_1.v {1 {vlog -work work -stats=none E:/BT/mux_4_2_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4_2_to_1
+
+Top level modules:
+	mux_4_2_to_1
+
+} {} {}} E:/BT/sequence_detector_2_tb.v {1 {vlog -work work -stats=none E:/BT/sequence_detector_2_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequence_detector_2
+-- Compiling module sequence_detector_2_tb
+
+Top level modules:
+	sequence_detector_2_tb
+
+} {} {}} E:/BT/Counter_to_10.v {1 {vlog -work work -stats=none E:/BT/Counter_to_10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_to_10
+
+Top level modules:
+	counter_to_10
+
+} {} {}} E:/BT/Counter_to_100_tb.v {1 {vlog -work work -stats=none E:/BT/counter_to_100_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_to_100
+-- Compiling module counter_to_100_tb
+
+Top level modules:
+	counter_to_100_tb
+
+} {} {}}

@@ -1,0 +1,7 @@
+module mux4bit_2to1(
+  input wire [3:0] a,b,
+  input wire en,
+  output reg [3:0] c
+);
+assign c = (en == 0) ? a : b;
+endmodule 

@@ -1,0 +1,62 @@
+module DFF_with_asynchronous_reset(
+   input wire clk,reset,d,
+   output reg q
+);
+always @(posedge clk, posedge reset)
+    if (reset)
+	q <= 1'b0;
+     else 
+	q <= d;
+endmodule
+//test bench
+`timescale 1ns / 1ps
+
+module tb_DFF_with_asynchronous_reset;
+
+    // Parameters
+    parameter CLK_PERIOD = 10; // Chu k? c?a xung clock trong ns
+    // Inputs
+    reg clk;
+    reg reset;
+    reg d;
+
+    // Outputs
+    wire q;
+
+    // Instantiate the module under test
+    DFF_with_asynchronous_reset uut(
+        .clk(clk),
+        .reset(reset),
+        .d(d),
+        .q(q)
+    );
+
+    // Clock generation (T?o ??ng h?)
+    always #((CLK_PERIOD / 2)) clk = ~clk;
+
+    // Reset generation
+    initial begin
+        reset = 1'b1;
+        #20; // Reset for 20 ns
+        reset = 1'b0; // De-assert reset
+    end
+
+    // Stimulus
+    initial begin
+        // Test case 1: Apply input 'd' as 0
+        d = 1'b0;
+        #50; // Wait for 50 ns
+        // Test case 2: Apply input 'd' as 1
+        d = 1'b1;
+        #50; // Wait for 50 ns
+        // Test case 3: Apply input 'd' as 0 again
+        d = 1'b0;
+        #50; // Wait for 50 ns
+        // End simulation
+        $finish;
+    end
+// Hi?n th? k?t qu?
+    always @(posedge clk) begin
+        $display("T?i th?i ?i?m %t, q = %b", $time, q);
+    end
+endmodule

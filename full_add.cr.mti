@@ -1,0 +1,9 @@
+E:/BT/full_add.v {1 {vlog -work work -stats=none E:/BT/full_add.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladd
+-- Compiling module tb_fulland
+
+Top level modules:
+	tb_fulland
+
+} {} {}}

@@ -1,0 +1,9 @@
+E:/BT/4bit_4to1_mux.v {1 {vlog -work work -stats=none E:/BT/4bit_4to1_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_bit_4to1_mux
+-- Compiling module tb_4bit_4to1_mux
+
+Top level modules:
+	tb_4bit_4to1_mux
+
+} {} {}}

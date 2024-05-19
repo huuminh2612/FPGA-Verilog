@@ -1,0 +1,9 @@
+E:/BT/machcoban.v {1 {vlog -work work -stats=none E:/BT/machcoban.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module machcoban
+-- Compiling module tb_machcoban
+
+Top level modules:
+	tb_machcoban
+
+} {} {}}

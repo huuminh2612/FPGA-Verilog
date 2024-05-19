@@ -1,0 +1,9 @@
+E:/BT/mux4bit_2to1.v {1 {vlog -work work -stats=none E:/BT/mux4bit_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4bit_2to1
+-- Compiling module testbench_mux4bit_2to1
+
+Top level modules:
+	testbench_mux4bit_2to1
+
+} {} {}}

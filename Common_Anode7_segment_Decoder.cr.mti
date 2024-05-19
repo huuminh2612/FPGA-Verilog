@@ -1,0 +1,9 @@
+E:/BT/Common_Anode7_segmentDecoder.v {1 {vlog -work work -stats=none E:/BT/Common_Anode7_segmentDecoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Common_Anode7_segment_Decoder
+-- Compiling module tb_Common_Anode7_segment_Decoder
+
+Top level modules:
+	tb_Common_Anode7_segment_Decoder
+
+} {} {}}

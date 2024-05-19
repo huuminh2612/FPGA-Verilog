@@ -1,0 +1,9 @@
+E:/BT/DFF_with_asynchronous-reset.v {1 {vlog -work work -stats=none E:/BT/DFF_with_asynchronous-reset.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFF_with_asynchronous_reset
+-- Compiling module tb_DFF_with_asynchronous_reset
+
+Top level modules:
+	tb_DFF_with_asynchronous_reset
+
+} {} {}}

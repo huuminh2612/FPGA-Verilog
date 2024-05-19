@@ -1,0 +1,9 @@
+E:/BT/Bai_tap_1_Sequence_Detector_2.v {1 {vlog -work work -stats=none E:/BT/Bai_tap_1_Sequence_Detector_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bai_tap_1_Sequence_Detector_2
+-- Compiling module Bai_tap_1_Sequence_Detector_2_tb
+
+Top level modules:
+	Bai_tap_1_Sequence_Detector_2_tb
+
+} {} {}}

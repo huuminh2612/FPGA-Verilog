@@ -1,0 +1,9 @@
+E:/Modulesim/encoder_4to_hight0.v {1 {vlog -work work -stats=none E:/Modulesim/encoder_4to_hight0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module encoder_4to_hight0
+-- Compiling module testbench_encoder_4to_hight0
+
+Top level modules:
+	testbench_encoder_4to_hight0
+
+} {} {}}

@@ -1,0 +1,95 @@
+# Compile of fsm_eg_2_seg.v was successful.
+# Compile of fsm_eg_2_seg.v was successful.
+vsim work.fsm_eg_mult_seg_tb
+# vsim work.fsm_eg_mult_seg_tb 
+# Start time: 19:39:44 on Apr 22,2024
+# Loading work.fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:39:45 on Apr 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 6
+vsim work.fsm_eg_mult_seg_tb
+# vsim work.fsm_eg_mult_seg_tb 
+# Start time: 19:39:47 on Apr 22,2024
+# Loading work.fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:39:48 on Apr 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of fsm_eg_2_seg.v was successful.
+vsim work.fsm_eg_mult_seg_tb
+# vsim work.fsm_eg_mult_seg_tb 
+# Start time: 19:40:01 on Apr 22,2024
+# Loading work.fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:40:01 on Apr 22,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of fsm_eg_2_seg.v was successful.
+# Compile of fsm_eg_2_seg.v was successful.
+vsim work.tb_fsm_eg_mult_seg_tb
+# vsim work.tb_fsm_eg_mult_seg_tb 
+# Start time: 19:40:46 on Apr 22,2024
+# Loading work.tb_fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+vsim work.tb_fsm_eg_mult_seg_tb
+# End time: 19:40:47 on Apr 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# vsim work.tb_fsm_eg_mult_seg_tb 
+# Start time: 19:40:47 on Apr 22,2024
+# Loading work.tb_fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:40:47 on Apr 22,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of fsm_eg_2_seg.v was successful.
+vsim work.tb_fsm_eg_mult_seg_tb
+# vsim work.tb_fsm_eg_mult_seg_tb 
+# Start time: 19:41:48 on Apr 22,2024
+# Loading work.tb_fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:41:49 on Apr 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of fsm_eg_2_seg.v was successful.
+vsim work.tb_fsm_eg_mult_seg_tb
+# vsim work.tb_fsm_eg_mult_seg_tb 
+# Start time: 19:41:56 on Apr 22,2024
+# Loading work.tb_fsm_eg_mult_seg_tb
+# ** Error: (vsim-3033) Instantiation of 'fsm_eg_mult_seg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_fsm_eg_mult_seg_tb File: E:/BT/fsm_eg_2_seg.v Line: 49
+#         Searched libraries:
+#             E:/BT/work
+# Error loading design
+# End time: 19:41:56 on Apr 22,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+vsim work.tb_fsm_eg_2_seg_tb
+# vsim work.tb_fsm_eg_2_seg_tb 
+# Start time: 19:42:11 on Apr 22,2024
+# Loading work.tb_fsm_eg_2_seg_tb
+# Loading work.fsm_eg_2_seg
+add wave -position insertpoint sim:/tb_fsm_eg_2_seg_tb/*
+run -all
+# Break key hit
+# Simulation stop requested.
+# End time: 19:59:15 on Apr 22,2024, Elapsed time: 0:17:04
+# Errors: 0, Warnings: 2

@@ -1,0 +1,13 @@
+module encoder_4to_hight0(
+   input wire [3:0] c,
+   output reg [2:0] y
+);
+always @*
+   casez(c)
+	4'b1111: y=000;
+	4'b0???: y=100;
+	4'b10??: y=101;
+	4'b110?: y=110;
+	4'b1110: y=111;
+    endcase
+endmodule

@@ -1,0 +1,9 @@
+{E:/BT/Katot7-segmentDecoder .v} {1 {vlog -work work -stats=none {E:/BT/Katot7-segmentDecoder .v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Katot7_segmentDecoder
+-- Compiling module tetsbench_Katot7_segmentDecoder
+
+Top level modules:
+	tetsbench_Katot7_segmentDecoder
+
+} {} {}}

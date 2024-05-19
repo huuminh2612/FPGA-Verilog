@@ -1,0 +1,9 @@
+E:/BT/8to3encoder.v {1 {vlog -work work -stats=none {E:\BT\8to3encoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module encoder_8_3
+-- Compiling module prio8to3bench
+
+Top level modules:
+	prio8to3bench
+
+} {} {}}

@@ -1,0 +1,9 @@
+E:/BT/onebit_fulladd.v {1 {vlog -work work -stats=none E:/BT/onebit_fulladd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module onebit_fulladd
+-- Compiling module tb_1bit_fulland
+
+Top level modules:
+	tb_1bit_fulland
+
+} {} {}}

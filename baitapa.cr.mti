@@ -1,0 +1,11 @@
+E:/BT/sosanhbit.v {0 {vlog -work work -stats=none E:/BT/sosanhbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module eq_four_bit
+** Error: E:/BT/sosanhbit.v(8): (vlog-2730) Undefined variable: 'e0'.
+** Error: E:/BT/sosanhbit.v(8): (vlog-2730) Undefined variable: 'e1'.
+** Error: E:/BT/sosanhbit.v(8): (vlog-2730) Undefined variable: 'e2'.
+** Error: E:/BT/sosanhbit.v(8): (vlog-2730) Undefined variable: 'e3'.
+-- Compiling module eq1
+-- Compiling module eq4_testbench
+
+} {4.0 8.0} {}}
